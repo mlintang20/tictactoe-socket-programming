@@ -13,3 +13,5 @@ git clone https://github.com/mlintang20/tictactoe-socket-programming.git
 ```
 cp serverconf.conf.example serverconf.conf
 ```
+
+3. Open the **serverconf.conf** file and edit _host_ and _port_ with your IP Address and port
