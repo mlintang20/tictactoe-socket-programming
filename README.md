@@ -4,6 +4,4 @@
 
 1. Download ZIP file or clone this github repo
 
-```
-git clone https://github.com/mlintang20/tictactoe-socket-programming.git
-```
+`git clone https://github.com/mlintang20/tictactoe-socket-programming.git`
