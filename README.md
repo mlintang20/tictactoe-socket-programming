@@ -15,3 +15,8 @@ cp serverconf.conf.example serverconf.conf
 ```
 
 3. Open the **serverconf.conf** file and edit _host_ and _port_ with your IP Address and port
+
+```
+host=xx.xx.xx.xx
+port=xxxx
+```
