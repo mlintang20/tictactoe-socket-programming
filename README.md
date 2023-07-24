@@ -4,6 +4,7 @@
 
 - Terminal / Powershell / Command Prompt
 - Python 3
+- Minimum 1 server & 2 clients
 
 ## How to play
 
