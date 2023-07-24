@@ -1,5 +1,10 @@
 # Tictactoe using Socket Programming in Python
 
+## Requirement
+
+- Terminal / Powershell / Command Prompt
+- Python 3
+
 ## How to play
 
 1. Download ZIP file or clone this github repo
