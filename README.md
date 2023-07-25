@@ -26,3 +26,9 @@ cp serverconf.conf.example serverconf.conf
 host=xx.xx.xx.xx
 port=xxxx
 ```
+
+4. Open terminal in root directory, then start the server with this command
+
+```
+python server.py
+```
