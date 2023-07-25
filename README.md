@@ -32,3 +32,9 @@ port=xxxx
 ```
 python server.py
 ```
+
+5. Open terminal in root directory (can be run on the same or different computers), then start the client with this command (minimum 2 client to play this game)
+
+```
+python client.py
+```
