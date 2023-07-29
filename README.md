@@ -42,3 +42,8 @@ python client.py
 6. Player 1 types the room number
 
 7. Player 2 types the same room number as Player 1 because each room must have exactly 2 players
+
+## Documentation
+
+![ss1](./img/Screenshot%202023-07-29%20121436.png)
+![ss2](./img/Screenshot%209.png)
