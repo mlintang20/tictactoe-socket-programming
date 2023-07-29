@@ -45,5 +45,5 @@ python client.py
 
 ## Documentation
 
-![ss1](./img/Screenshot%202023-07-29%20121436.png)
+![ss1](./img/Screenshot%201.png)
 ![ss2](./img/Screenshot%209.png)
